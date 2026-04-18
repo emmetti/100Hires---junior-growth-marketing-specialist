@@ -19,7 +19,10 @@
 9. Pressed the copy button in Claude
 10. Opened the Git Repo, then pressed Edit on the pre-existing readme
 11. Clicked the readme, then Ctrl+A, followed by Ctrl + V in the README directly in the GitHub repository
-12. Sent the repository link to Alex Kravets at 100Hires within 2 hours of receiving the email (well within the 48-hour deadline)
+12. Pressed Commit changes
+13. Copied the link to the repo
+14. Pasted the link to the repo in the reply to Alex at 100Hires
+15. Sent the repository link to Alex Kravets at 100Hires within 2 hours of receiving the email (well within the 48-hour deadline)
 
 ## Issues Encountered and How I Solved Them
 
