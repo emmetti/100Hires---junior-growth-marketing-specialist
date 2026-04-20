@@ -70,7 +70,7 @@ To ensure the resulting playbook is both highly scalable and highly resilient to
 * **Primary Platform:** Website (Case Studies) / LinkedIn
 * **The "Why" for 100hires:** Goodey dissects the exact SEO playbooks of established SaaS companies. Analyzing his teardowns of 100hires' direct competitors (e.g., Workable, Greenhouse) provides the baseline to identify the gaps where an AI-powered pipeline can outmaneuver legacy content strategies.
 
-### 10. Ian Nutting
-* **Profile:** B2B SaaS Content Strategist (Minuttia).
-* **Primary Platform:** LinkedIn
-* **The "Why" for 100hires:** Nutting focuses on "Content for the Funnel." He provides the tactical conversion architecture needed to turn a visitor looking for a specific interview question into an active 100hires trial user, closing the loop between AI generation and actual ARR.
+### 10. Gaetano DiNardi
+* **Profile:** Co-founder of Marketing Advice, B2B SaaS marketing advisor focused on demand capture and AI search.
+* **Primary Platform:** Substack
+* **The "Why" for 100hires:** DiNardi's data-driven analysis of AI traffic conversion rates and funnel architecture provides the tactical framework for connecting programmatic content to actual pipeline and ARR.

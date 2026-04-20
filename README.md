@@ -26,7 +26,7 @@ To build a viable playbook for an ATS platform, the strategy cannot rely solely 
 | **Programmatic Architecture** | Preetam Nath, Eli Schwartz | Automating database-driven landing pages for job search intent |
 | **Semantic Mapping** | Koray Tuğberk GÜBÜR, Mike King | Entity extraction and topical authority before generating text |
 | **Risk Mitigation** | Lily Ray, Aleyda Solis | E-E-A-T guardrails and automated crawl management |
-| **B2B Conversion** | Jake Ward, Ben Goodey, Ian Nutting | Connecting top-of-funnel traffic to software signup flow |
+| **B2B Conversion** | Jake Ward, Ben Goodey, Gaetano DiNardi | Connecting top-of-funnel traffic to software signup flow |
 
 ## 4. Expert Selection Rationale
 
