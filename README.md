@@ -1,58 +1,36 @@
-# 100Hires – Junior Growth Marketing Specialist: Portfolio Project Setup
+# AI-Powered SEO Content Playbook Pipeline
 
-## Tools Installed
+**Target Application:** High-volume B2B SaaS (Applicant Tracking Systems / HR Tech)
+**Project Goal:** Establish a data-backed research foundation for a programmatic, AI-driven SEO playbook that scales traffic without incurring algorithmic penalties.
 
-- **Cursor IDE** – AI-powered code editor (desktop version)
-- **Claude Code** (official Anthropic extension) – installed via Cursor's Extensions panel
-- **Codex** – installed via Cursor's Extensions panel
+## 1. Repository Architecture
 
-## Steps Completed
+This repository is structured not as a reading list, but as the data-ingestion layer for a scalable content engine.
 
-1. Downloaded and launched Cursor IDE; logged in via Google account sync
-2. Created a new public GitHub repository titled `100Hires - junior growth marketing specialist`
-3. Connected the repository to Cursor via the browser login screen (selected the repo under "Select repos")
-4. Located the Extensions panel in Cursor using the keyboard shortcut `Ctrl+Shift+X`
-5. Searched for and installed the Claude Code extension (official Anthropic release); confirmed "Trust Publisher" prompt
-6. Searched for and installed the Codex extension; confirmed "Trust Publisher" prompt
-7. Drafted README content documenting this process in real time, then used Claude (claude.ai) to format it into this file
-8. Reviewed Claude's output.
-9. Pressed the copy button in Claude
-10. Opened the Git Repo, then pressed Edit on the pre-existing readme
-11. Clicked the readme, then Ctrl+A, followed by Ctrl + V in the README directly in the GitHub repository
-12. Pressed Commit changes
-13. Copied the link to the repo
-14. Pasted the link to the repo in the reply to Alex at 100Hires
-15. Sent the repository link to Alex Kravets at 100Hires within 2 hours of receiving the email (well within the 48-hour deadline)
+- /research/sources.md: The strategic rationale behind the 10 selected experts, categorized by pipeline function.
+- /research/linkedin-posts/: Structured Markdown representations of B2B growth and programmatic scaling strategies.
+- /research/youtube-transcripts/: Formatted, timestamp-chunked transcripts detailing technical SEO and E-E-A-T risk mitigation.
+- /research/other/: A practical gap analysis demonstrating how this research applies to disrupting legacy SaaS competitors.
 
-## Issues Encountered and How I Solved Them
+## 2. Methodology & API Tooling
 
-**Couldn't find the Extensions option in Cursor**
-The Extensions menu wasn't immediately visible in either the browser or desktop versions of Cursor. I highlighted the relevant instruction in the email, right-clicked, and selected "Search in Google." The search returned the keyboard shortcut `Ctrl+Shift+X`, which opened the Extensions panel immediately. I continued from there without further issues.
+- **Data Collection:** Transcripts and text were sourced via targeted API extraction (Supadata workflows) and manual programmatic formatting to ensure clean, structured data ready for LLM ingestion.
+- **Formatting:** All raw data was cleaned and standardized using YAML frontmatter to track source types, key entities, and strategic categories. This prevents data dumping and ensures the research is immediately actionable for building the final playbook.
 
-## Notes
+## 3. The Playbook Matrix (Why These 10 Experts?)
 
-README content was documented in real time as steps were completed, then pasted into Claude for formatting. Final output was reviewed and edited before submission.
+To build a viable playbook for an ATS platform, the strategy cannot rely solely on AI writing. It requires a balanced ecosystem of extraction, scaling, protection, and conversion. These 10 experts cover the four critical pillars of an AI content supply chain:
 
-## Research Architecture
-
-This project maps 10 AI-SEO experts across four strategic pillars to support a full content production pipeline for B2B SaaS.
-
-| Production Stage | Lead Expert | Strategic Function |
+| Production Stage | Lead Experts | Strategic Function |
 |---|---|---|
-| **Programmatic Architecture** | Preetam Nath | Repeatable LLM-generated landing pages for long-tail job search traffic |
-| **SEO Heist & Competitive Scaling** | Jake Ward | AI-assisted content pipelines for B2B lead generation |
-| **Product-Led SEO** | Eli Schwartz | Building search utility into the product itself, not isolated pages |
-| **Semantic Mapping** | Koray Tuğberk GÜBÜR | Topical authority networks to prevent content farm classification |
-| **Data-Driven Prompting** | Mike King | API-fed real-time data injected into LLM prompts for unique content |
-| **Site Architecture** | Kevin Indig | Structural logic for organizing thousands of ATS landing pages |
-| **E-E-A-T & Risk Mitigation** | Lily Ray | YMYL compliance guardrails for AI-generated recruiting content |
-| **Technical Audit Automation** | Aleyda Solis | AI workflows for automated technical SEO quality checks |
-| **Competitor Gap Analysis** | Ben Goodey | SaaS SEO teardowns to identify content gaps vs Workable/Greenhouse |
-| **Conversion Architecture** | Ian Nutting | Funnel mapping from top-of-funnel traffic to trial signups |
+| **Programmatic Architecture** | Preetam Nath, Eli Schwartz | Automating database-driven landing pages for job search intent |
+| **Semantic Mapping** | Koray Tuğberk GÜBÜR, Mike King | Entity extraction and topical authority before generating text |
+| **Risk Mitigation** | Lily Ray, Aleyda Solis | E-E-A-T guardrails and automated crawl management |
+| **B2B Conversion** | Jake Ward, Ben Goodey, Ian Nutting | Connecting top-of-funnel traffic to software signup flow |
 
-## Expert Selection Rationale
+## 4. Expert Selection Rationale
 
-AI-powered SEO in 2026 is a high-risk/high-reward environment. This expert mix is deliberately varied across four pillars:
+AI-powered SEO in 2026 is a high-risk/high-reward environment. This expert mix is deliberately varied:
 
 - **Architecture + Semantics** experts enable scale and topical authority
 - **Risk Mitigation** experts prevent algorithmic penalties from thin content
