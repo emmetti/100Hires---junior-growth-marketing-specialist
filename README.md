@@ -1,3 +1,5 @@
+👉 **[Click here to view the AI-Powered SEO Playbook / SOP](PLAYBOOK.md)**
+
 # AI-Powered SEO Content Playbook Pipeline
 
 **Target Application:** High-volume B2B SaaS (Applicant Tracking Systems / HR Tech)
